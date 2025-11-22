@@ -44,6 +44,7 @@ The project demonstrates **text processing, date parsing, window functions, CTE 
 ---
 
 # 🗂 Dataset Schema
+Dataset Source: This dataset was downloaded from Kaggle: “Netflix Movies and TV Shows Dataset”.
 
 ```sql
 create table netflix(
